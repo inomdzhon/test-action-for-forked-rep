@@ -1,6 +1,6 @@
 .Button {
   position: relative;
-  display: inline-block;
+  display: inline-flex;
   box-sizing: border-box;
   text-decoration: none;
   border: none;
