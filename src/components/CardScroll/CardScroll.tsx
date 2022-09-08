@@ -20,7 +20,7 @@ export interface CardScrollProps extends React.HTMLAttributes<HTMLDivElement> {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/CardScroll
+ * @see https://inomdzhon.github.io/VKUI/#/CardScroll
  */
 export const CardScroll = ({
   children,

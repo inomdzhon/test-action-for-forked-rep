@@ -221,7 +221,7 @@ const ButtonComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Button
+ * @see https://inomdzhon.github.io/VKUI/#/Button
  */
 export const Button = withAdaptivity(ButtonComponent, {
   sizeY: true,

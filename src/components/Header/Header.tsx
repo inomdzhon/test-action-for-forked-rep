@@ -68,7 +68,7 @@ const HeaderContent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Header
+ * @see https://inomdzhon.github.io/VKUI/#/Header
  */
 export const Header = ({
   mode = "primary",

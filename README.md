@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://vkcom.github.io/VKUI/"><img src="styleguide/assets/static/vkui_logo.png?raw=true" width="300" alt="VKUI logo"></a>
+  <a href="https://inomdzhon.github.io/VKUI/"><img src="styleguide/assets/static/vkui_logo.png?raw=true" width="300" alt="VKUI logo"></a>
 </h1>
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/npm/l/@vkontakte/vkui?maxAge=3600" alt="license mit"></a>
@@ -91,7 +91,7 @@ ReactDOM.render(
 
 ## Документация
 
-В [документации](https://vkcom.github.io/VKUI/) вы сможете найти информацию об использовании компонентов и утилит.
+В [документации](https://inomdzhon.github.io/VKUI/) вы сможете найти информацию об использовании компонентов и утилит.
 
 ## Сообщить о проблеме
 

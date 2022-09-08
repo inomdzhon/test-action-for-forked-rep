@@ -49,7 +49,7 @@ export interface AppRootProps
 const warn = warnOnce("AppRoot");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/AppRoot
+ * @see https://inomdzhon.github.io/VKUI/#/AppRoot
  */
 export const AppRoot = withAdaptivity<AppRootProps>(
   ({

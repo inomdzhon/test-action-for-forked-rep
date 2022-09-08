@@ -137,7 +137,7 @@ const AlertAction = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Alert
+ * @see https://inomdzhon.github.io/VKUI/#/Alert
  */
 export const Alert = ({
   actions = [],

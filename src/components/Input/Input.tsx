@@ -49,7 +49,7 @@ const InputComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Input
+ * @see https://inomdzhon.github.io/VKUI/#/Input
  */
 export const Input = withAdaptivity(InputComponent, {
   sizeY: true,

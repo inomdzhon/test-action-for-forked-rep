@@ -60,7 +60,7 @@ export interface CellProps
 const warn = warnOnce("Cell");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Cell
+ * @see https://inomdzhon.github.io/VKUI/#/Cell
  */
 export const Cell = ({
   mode: propsMode, // TODO: убрать переименование в propsMode перед 5.0.0

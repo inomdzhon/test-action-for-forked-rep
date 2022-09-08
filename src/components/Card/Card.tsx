@@ -12,7 +12,7 @@ export interface CardProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Card
+ * @see https://inomdzhon.github.io/VKUI/#/Card
  */
 export const Card = ({
   mode = "tint",

@@ -9,13 +9,13 @@ export interface SeparatorProps extends React.HTMLAttributes<HTMLDivElement> {
   wide?: boolean;
 
   /**
-   * @deprecated Это свойство устарело и будет удалено в 5.0.0. Используйте [`Spacing`](https://vkcom.github.io/VKUI/#/Spacing).
+   * @deprecated Это свойство устарело и будет удалено в 5.0.0. Используйте [`Spacing`](https://inomdzhon.github.io/VKUI/#/Spacing).
    */
   expanded?: boolean;
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Separator
+ * @see https://inomdzhon.github.io/VKUI/#/Separator
  */
 export const Separator = ({ wide, expanded, ...restProps }: SeparatorProps) => (
   <div

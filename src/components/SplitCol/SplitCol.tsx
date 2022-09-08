@@ -32,7 +32,7 @@ export interface SplitColProps extends React.HTMLAttributes<HTMLDivElement> {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/SplitCol
+ * @see https://inomdzhon.github.io/VKUI/#/SplitCol
  */
 export const SplitCol = ({
   children,

@@ -32,7 +32,7 @@ export interface RenderChip<T> extends ChipProps {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Chip
+ * @see https://inomdzhon.github.io/VKUI/#/Chip
  */
 export const Chip = ({
   value = "",

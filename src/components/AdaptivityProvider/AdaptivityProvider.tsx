@@ -26,7 +26,7 @@ export interface AdaptivityProviderProps extends AdaptivityProps {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/AdaptivityProvider
+ * @see https://inomdzhon.github.io/VKUI/#/AdaptivityProvider
  */
 export const AdaptivityProvider = (props: AdaptivityProviderProps) => {
   const adaptivityRef = React.useRef<ReturnType<

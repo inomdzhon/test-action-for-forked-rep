@@ -187,7 +187,7 @@ const SimpleCellComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/SimpleCell
+ * @see https://inomdzhon.github.io/VKUI/#/SimpleCell
  */
 export const SimpleCell = withAdaptivity(SimpleCellComponent, { sizeY: true });
 

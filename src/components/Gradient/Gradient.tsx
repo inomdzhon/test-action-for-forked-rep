@@ -14,7 +14,7 @@ export interface GradientProps extends React.HTMLAttributes<HTMLDivElement> {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Gradient
+ * @see https://inomdzhon.github.io/VKUI/#/Gradient
  */
 export const Gradient = ({
   mode = "tint",

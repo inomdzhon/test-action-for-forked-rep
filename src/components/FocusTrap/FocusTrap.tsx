@@ -24,7 +24,7 @@ export interface FocusTrapProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/FocusTrap
+ * @see https://inomdzhon.github.io/VKUI/#/FocusTrap
  */
 export const FocusTrap = ({
   Component = "div",

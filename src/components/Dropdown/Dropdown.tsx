@@ -55,7 +55,7 @@ export interface DropdownProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Dropdown
+ * @see https://inomdzhon.github.io/VKUI/#/Dropdown
  *
  * TODO v5.0.0 Переименовать в `Popover` (см. https://github.com/VKCOM/VKUI/issues/2523)
  */

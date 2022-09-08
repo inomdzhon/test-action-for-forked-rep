@@ -68,7 +68,7 @@ const deriveAppearance = (scheme: Scheme | undefined): AppearanceType =>
     : "light";
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ConfigProvider
+ * @see https://inomdzhon.github.io/VKUI/#/ConfigProvider
  */
 export const ConfigProvider = (props: ConfigProviderProps) => {
   const parentLocale = React.useContext(LocaleProviderContext);

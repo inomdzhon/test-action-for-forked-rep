@@ -33,7 +33,7 @@ const getItemsLayout = (
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Tabbar
+ * @see https://inomdzhon.github.io/VKUI/#/Tabbar
  */
 export const Tabbar = ({
   children,

@@ -17,7 +17,7 @@ export interface FileProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/File
+ * @see https://inomdzhon.github.io/VKUI/#/File
  */
 export const File = ({
   children = "Выберите файл",

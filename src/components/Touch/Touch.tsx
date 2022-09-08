@@ -64,7 +64,7 @@ export type ClickHandler = (e: React.MouseEvent<HTMLElement>) => void;
 export type DragHandler = (e: React.DragEvent<HTMLElement>) => void;
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Touch
+ * @see https://inomdzhon.github.io/VKUI/#/Touch
  */
 export const Touch = ({
   onStart,

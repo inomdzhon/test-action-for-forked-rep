@@ -246,7 +246,7 @@ const SnackbarComponent = ({
 SnackbarComponent.displayName = "Snackbar";
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Snackbar
+ * @see https://inomdzhon.github.io/VKUI/#/Snackbar
  */
 export const Snackbar = withAdaptivity(SnackbarComponent, {
   viewWidth: true,

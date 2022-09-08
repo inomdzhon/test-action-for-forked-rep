@@ -115,7 +115,7 @@ const sameWidthModifier: Modifier<string> = {
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Popper
+ * @see https://inomdzhon.github.io/VKUI/#/Popper
  */
 export const Popper = ({
   targetRef,

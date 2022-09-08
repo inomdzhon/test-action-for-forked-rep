@@ -34,7 +34,7 @@ export const generateVKUITokensClassName = (
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/AppearanceProvider
+ * @see https://inomdzhon.github.io/VKUI/#/AppearanceProvider
  */
 export const AppearanceProvider = ({
   children,

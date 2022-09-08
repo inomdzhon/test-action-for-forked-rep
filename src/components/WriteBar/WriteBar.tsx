@@ -37,7 +37,7 @@ export interface WriteBarProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/WriteBar
+ * @see https://inomdzhon.github.io/VKUI/#/WriteBar
  */
 export const WriteBar = ({
   className,

@@ -22,7 +22,7 @@ export interface SSRWrapperProps {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/SSR
+ * @see https://inomdzhon.github.io/VKUI/#/SSR
  */
 export const SSRWrapper = ({
   userAgent,

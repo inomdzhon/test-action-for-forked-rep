@@ -9,7 +9,7 @@ export interface ScrollSaverProps {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ScrollSaver
+ * @see https://inomdzhon.github.io/VKUI/#/ScrollSaver
  */
 export const ScrollSaver = ({
   children,

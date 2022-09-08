@@ -121,7 +121,8 @@ jobs:
           body: |
             <!-- styleguide_url -->
             ## 👀 Styleguide deployed
-            See the styleguide for this PR at https://vkcom.github.io/VKUI/pull/${{ github.event.pull_request.number }}/
+            See the styleguide for this PR at https://inomdzhon.github.io/VKUI/pull/${{ github.event.pull_request.number }}/
+
 #  report_tests:
 #    runs-on: ubuntu-latest
 #    needs:

@@ -65,7 +65,7 @@ export interface SearchProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Search
+ * @see https://inomdzhon.github.io/VKUI/#/Search
  */
 const SearchComponent = ({
   before = <Icon16SearchOutline aria-hidden />,

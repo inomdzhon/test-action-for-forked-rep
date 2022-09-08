@@ -10,7 +10,7 @@ export interface GalleryProps extends BaseGalleryProps {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Gallery
+ * @see https://inomdzhon.github.io/VKUI/#/Gallery
  */
 export const Gallery = ({
   initialSlideIndex = 0,

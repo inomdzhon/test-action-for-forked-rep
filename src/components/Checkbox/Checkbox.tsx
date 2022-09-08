@@ -39,7 +39,7 @@ export interface CheckboxProps
 const warn = warnOnce("Checkbox");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Checkbox
+ * @see https://inomdzhon.github.io/VKUI/#/Checkbox
  */
 export const Checkbox = ({
   children,

@@ -59,7 +59,7 @@ const EpicComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Epic
+ * @see https://inomdzhon.github.io/VKUI/#/Epic
  */
 export const Epic = withAdaptivity(EpicComponent, {
   viewWidth: true,

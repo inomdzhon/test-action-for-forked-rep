@@ -181,7 +181,7 @@ function calculateAppearance(
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Tooltip
+ * @see https://inomdzhon.github.io/VKUI/#/Tooltip
  */
 export const Tooltip = ({
   children,

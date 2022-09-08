@@ -49,7 +49,7 @@ const ModalRootComponent = (
 ModalRootComponent.displayName = "ModalRoot";
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ModalRoot
+ * @see https://inomdzhon.github.io/VKUI/#/ModalRoot
  */
 export const ModalRoot = withAdaptivity(ModalRootComponent, {
   viewWidth: true,

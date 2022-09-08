@@ -103,7 +103,7 @@ const GroupComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Group
+ * @see https://inomdzhon.github.io/VKUI/#/Group
  */
 export const Group = withAdaptivity(GroupComponent, { sizeX: true });
 

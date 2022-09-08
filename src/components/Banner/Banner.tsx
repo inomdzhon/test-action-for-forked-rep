@@ -80,7 +80,7 @@ export interface BannerProps extends React.HTMLAttributes<HTMLDivElement> {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Banner
+ * @see https://inomdzhon.github.io/VKUI/#/Banner
  */
 export const Banner = ({
   mode = "tint",

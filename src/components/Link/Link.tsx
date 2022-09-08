@@ -10,7 +10,7 @@ export interface LinkProps extends TappableProps {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Link
+ * @see https://inomdzhon.github.io/VKUI/#/Link
  */
 export const Link = ({ hasVisited, children, ...restProps }: LinkProps) => {
   return (

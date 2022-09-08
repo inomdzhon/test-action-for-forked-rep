@@ -6,7 +6,7 @@ import "./Footer.css";
 export type FooterProps = React.AllHTMLAttributes<HTMLElement> & HasComponent;
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Footer
+ * @see https://inomdzhon.github.io/VKUI/#/Footer
  */
 export const Footer = ({ children, ...restProps }: FooterProps) => {
   return (

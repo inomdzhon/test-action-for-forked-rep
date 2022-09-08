@@ -30,7 +30,7 @@ interface RemovableIosOwnProps extends RemovableProps {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/RemovableIos
+ * @see https://inomdzhon.github.io/VKUI/#/RemovableIos
  */
 const RemovableIos = ({
   onRemove,

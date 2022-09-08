@@ -80,7 +80,7 @@ const ModalCardComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ModalCard
+ * @see https://inomdzhon.github.io/VKUI/#/ModalCard
  */
 export const ModalCard = withAdaptivity(withPlatform(ModalCardComponent), {
   viewWidth: true,

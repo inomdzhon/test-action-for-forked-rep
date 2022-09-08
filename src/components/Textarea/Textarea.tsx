@@ -79,7 +79,7 @@ const TextareaComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Textarea
+ * @see https://inomdzhon.github.io/VKUI/#/Textarea
  */
 export const Textarea = withAdaptivity(TextareaComponent, { sizeY: true });
 

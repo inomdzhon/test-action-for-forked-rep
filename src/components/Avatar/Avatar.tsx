@@ -29,7 +29,7 @@ export const AVATAR_DEFAULT_SIZE = 48;
 export const AVATAR_DEFAULT_SHADOW = true;
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Avatar
+ * @see https://inomdzhon.github.io/VKUI/#/Avatar
  */
 export const Avatar = ({
   alt,

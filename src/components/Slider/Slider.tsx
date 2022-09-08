@@ -10,7 +10,7 @@ import { TouchEvent } from "../Touch/Touch";
 export type SliderProps = UniversalSliderProps<number>;
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Slider
+ * @see https://inomdzhon.github.io/VKUI/#/Slider
  */
 export const Slider = ({
   onChange,
