@@ -19,7 +19,7 @@ export interface SubheadProps
 const warn = warnOnce("Subhead");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Subhead
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Subhead
  */
 export const Subhead = ({
   children,

@@ -19,7 +19,7 @@ export interface TextProps
 
 const warn = warnOnce("Text");
 /**
- * @see https://vkcom.github.io/VKUI/#/Text
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Text
  */
 export const Text = ({
   children,

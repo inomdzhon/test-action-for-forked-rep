@@ -11,7 +11,7 @@ export interface ChipsInputProps<Option extends ChipOption>
     FormFieldProps {}
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/ChipsInput
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ChipsInput
  */
 export const ChipsInput = <Option extends ChipOption>({
   style,

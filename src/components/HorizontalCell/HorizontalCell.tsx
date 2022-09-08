@@ -39,7 +39,7 @@ export interface HorizontalCellProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/HorizontalCell
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/HorizontalCell
  */
 export const HorizontalCell = ({
   className,

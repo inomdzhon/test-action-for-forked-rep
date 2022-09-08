@@ -4,7 +4,7 @@
 - цвет фона в зависимости от состояния
 - ripple-эффект при нажатии, если это платформа `ANDROID`
 
-Используется внутри всех контролов. Например, [Button](https://inomdzhon.github.io/VKUI/#/Button), [Cell](https://inomdzhon.github.io/VKUI/#/Cell), [ActionSheetItem](https://inomdzhon.github.io/VKUI/#/ActionSheetItem) и т.п.
+Используется внутри всех контролов. Например, [Button](https://inomdzhon.github.io/test-action-for-forked-rep/#/Button), [Cell](https://inomdzhon.github.io/test-action-for-forked-rep/#/Cell), [ActionSheetItem](https://inomdzhon.github.io/test-action-for-forked-rep/#/ActionSheetItem) и т.п.
 
 ```jsx { "props": { "layout": false, "iframe": false } }
 const Example = () => {

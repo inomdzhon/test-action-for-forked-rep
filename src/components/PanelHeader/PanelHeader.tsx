@@ -164,7 +164,7 @@ const PanelHeaderComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PanelHeader
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PanelHeader
  */
 export const PanelHeader = withAdaptivity(PanelHeaderComponent, {
   sizeX: true,

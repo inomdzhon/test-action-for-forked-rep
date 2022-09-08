@@ -17,7 +17,7 @@ export interface ParagraphProps
 const warn = warnOnce("Paragraph");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Paragraph
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Paragraph
  */
 export const Paragraph = ({
   Component = "span",

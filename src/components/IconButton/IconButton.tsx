@@ -50,7 +50,7 @@ const IconButtonComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/IconButton
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/IconButton
  */
 export const IconButton = withAdaptivity(IconButtonComponent, {
   sizeY: true,

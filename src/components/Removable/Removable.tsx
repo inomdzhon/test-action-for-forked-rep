@@ -30,7 +30,7 @@ interface RemovableIosOwnProps extends RemovableProps {
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/RemovableIos
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/RemovableIos
  */
 const RemovableIos = ({
   onRemove,
@@ -119,7 +119,7 @@ interface RemovableOwnProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Removable
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Removable
  */
 export const Removable = ({
   getRootRef,

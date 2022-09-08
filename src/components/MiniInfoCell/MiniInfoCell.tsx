@@ -48,7 +48,7 @@ export interface MiniInfoCellProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/MiniInfoCell
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/MiniInfoCell
  */
 export const MiniInfoCell = ({
   before,

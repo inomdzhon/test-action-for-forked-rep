@@ -8,7 +8,7 @@ import { getTitleFromChildren } from "../../lib/utils";
 import { usePlatform } from "../../hooks/usePlatform";
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PanelHeaderClose
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PanelHeaderClose
  */
 export const PanelHeaderClose = ({
   children = "Отмена",

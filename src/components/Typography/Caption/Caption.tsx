@@ -20,7 +20,7 @@ export interface CaptionProps
 const warn = warnOnce("Caption");
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Caption
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Caption
  */
 export const Caption = ({
   children,

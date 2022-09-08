@@ -24,7 +24,7 @@ export interface FocusTrapProps
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/FocusTrap
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/FocusTrap
  */
 export const FocusTrap = ({
   Component = "div",

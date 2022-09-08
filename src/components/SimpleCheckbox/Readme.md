@@ -1,6 +1,6 @@
 > **Deprecated:** этот компонент устарел и будет удален в 5.0.0.
 >
-> Используйте [`Checkbox`](https://vkcom.github.io/VKUI/#/Checkbox).
+> Используйте [`Checkbox`](https://inomdzhon.github.io/test-action-for-forked-rep/#/Checkbox).
 
 Надстройка над `<input type="checkbox" />`. Компонент принимает все валидные для этого элемента свойства.
 
@@ -8,7 +8,7 @@
 
 > **Важно**
 >
-> Это нестабильный компонент. Его API может меняться в рамках одной мажорной версии. [Подробнее про нестабильные компоненты](https://vkcom.github.io/VKUI/#/Unstable).
+> Это нестабильный компонент. Его API может меняться в рамках одной мажорной версии. [Подробнее про нестабильные компоненты](https://inomdzhon.github.io/test-action-for-forked-rep/#/Unstable).
 
 ```jsx { "props": { "layout": false, "iframe": false } }
 <div

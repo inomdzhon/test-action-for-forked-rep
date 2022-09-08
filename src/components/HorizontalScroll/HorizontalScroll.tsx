@@ -236,7 +236,7 @@ const HorizontalScrollComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/HorizontalScroll
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/HorizontalScroll
  */
 export const HorizontalScroll = withAdaptivity(HorizontalScrollComponent, {
   hasMouse: true,

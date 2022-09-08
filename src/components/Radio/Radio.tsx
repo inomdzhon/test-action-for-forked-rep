@@ -94,7 +94,7 @@ const RadioComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Radio
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Radio
  */
 export const Radio = withAdaptivity(RadioComponent, {
   sizeY: true,

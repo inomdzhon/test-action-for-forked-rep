@@ -26,7 +26,7 @@ export interface FormLayoutGroupProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/FormLayoutGroup
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/FormLayoutGroup
  */
 export const FormLayoutGroup = ({
   children,

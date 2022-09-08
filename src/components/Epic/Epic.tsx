@@ -59,7 +59,7 @@ const EpicComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Epic
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Epic
  */
 export const Epic = withAdaptivity(EpicComponent, {
   viewWidth: true,

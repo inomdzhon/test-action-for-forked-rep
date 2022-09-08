@@ -19,7 +19,7 @@ export const MAX_GRID_LENGTH = 4;
 const warn = warnOnce("GridAvatar");
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/GridAvatar
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/GridAvatar
  */
 export const GridAvatar = ({ src = [], ...restProps }: GridAvatarProps) => {
   if (process.env.NODE_ENV === "development" && src.length > MAX_GRID_LENGTH) {

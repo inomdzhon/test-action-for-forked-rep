@@ -23,7 +23,7 @@ export interface TextTooltipProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/TextTooltip
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/TextTooltip
  */
 export const TextTooltip = ({
   children,

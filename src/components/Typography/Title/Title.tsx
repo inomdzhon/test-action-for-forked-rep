@@ -27,7 +27,7 @@ export interface TitleProps
 const warn = warnOnce("Title");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Title
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Title
  */
 export const Title = ({
   children,

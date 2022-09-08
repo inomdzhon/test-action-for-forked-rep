@@ -8,7 +8,7 @@ import { usePlatform } from "../../hooks/usePlatform";
 import { getTitleFromChildren } from "../../lib/utils";
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PanelHeaderSubmit
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PanelHeaderSubmit
  */
 export const PanelHeaderSubmit = ({
   children = "Готово",

@@ -1,6 +1,6 @@
 Компонент-обертка над [Spinner](#!/Spinner).
 
-Передаётся в качестве значения свойства `popout` компонента [`SplitLayout`](https://vkcom.github.io/VKUI/#/SplitLayout).
+Передаётся в качестве значения свойства `popout` компонента [`SplitLayout`](https://inomdzhon.github.io/test-action-for-forked-rep/#/SplitLayout).
 
 Рекомендуется использовать в случаях, когда требуется заблокировать интерфейс до завершения асинхронного процесса.
 

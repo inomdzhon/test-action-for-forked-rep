@@ -10,7 +10,7 @@ import { TouchEvent } from "../Touch/Touch";
 export type SliderProps = UniversalSliderProps<number>;
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Slider
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Slider
  */
 export const Slider = ({
   onChange,

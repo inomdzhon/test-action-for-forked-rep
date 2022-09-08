@@ -16,7 +16,7 @@
   "license": "MIT",
   "description": "VKUI library",
   "repository": "https://github.com/inomdzhon/test-action-for-forked-rep",
-  "homepage": "https://inomdzhon.github.io/VKUI/",
+  "homepage": "https://inomdzhon.github.io/test-action-for-forked-rep/",
   "defaultSchemeId": "bright_light",
   "devDependencies": {
     "@babel/cli": "^7.16.8",

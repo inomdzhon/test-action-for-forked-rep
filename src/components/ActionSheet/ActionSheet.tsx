@@ -41,7 +41,7 @@ export interface ActionSheetProps extends React.HTMLAttributes<HTMLDivElement> {
 const warn = warnOnce("ActionSheet");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ActionSheet
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ActionSheet
  */
 export const ActionSheet = ({
   children,

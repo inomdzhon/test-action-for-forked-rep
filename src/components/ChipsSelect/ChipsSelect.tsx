@@ -97,7 +97,7 @@ const chipsSelectDefaultProps: ChipsSelectProps<any> = {
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ChipsSelect
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ChipsSelect
  */
 export const ChipsSelect = <Option extends ChipOption>(
   props: ChipsSelectProps<Option>

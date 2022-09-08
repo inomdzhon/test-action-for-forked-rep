@@ -22,7 +22,7 @@ export interface SSRWrapperProps {
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/SSR
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/SSR
  */
 export const SSRWrapper = ({
   userAgent,

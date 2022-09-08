@@ -65,7 +65,7 @@ export interface SearchProps
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Search
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Search
  */
 const SearchComponent = ({
   before = <Icon16SearchOutline aria-hidden />,

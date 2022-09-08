@@ -17,7 +17,7 @@ export interface FileProps
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/File
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/File
  */
 export const File = ({
   children = "Выберите файл",

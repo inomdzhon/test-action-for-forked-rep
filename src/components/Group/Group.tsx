@@ -103,7 +103,7 @@ const GroupComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Group
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Group
  */
 export const Group = withAdaptivity(GroupComponent, { sizeX: true });
 

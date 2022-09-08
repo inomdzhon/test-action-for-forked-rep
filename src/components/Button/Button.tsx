@@ -221,7 +221,7 @@ const ButtonComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Button
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Button
  */
 export const Button = withAdaptivity(ButtonComponent, {
   sizeY: true,

@@ -12,7 +12,7 @@ export interface ScreenSpinnerProps extends SpinnerProps {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ScreenSpinner
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ScreenSpinner
  */
 export const ScreenSpinner = ({
   style,

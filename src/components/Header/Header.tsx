@@ -68,7 +68,7 @@ const HeaderContent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Header
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Header
  */
 export const Header = ({
   mode = "primary",

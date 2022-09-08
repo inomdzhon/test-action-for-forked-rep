@@ -22,7 +22,7 @@ export interface PanelProps
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Panel
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Panel
  */
 export const Panel = withAdaptivity<PanelProps & AdaptivityContextInterface>(
   ({ centered = false, children, getRootRef, sizeX, nav, ...restProps }) => {

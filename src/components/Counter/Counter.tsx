@@ -14,7 +14,7 @@ export interface CounterProps extends React.HTMLAttributes<HTMLSpanElement> {
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Counter
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Counter
  */
 export const Counter = ({
   mode = "secondary",

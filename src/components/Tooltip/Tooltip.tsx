@@ -181,7 +181,7 @@ function calculateAppearance(
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Tooltip
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Tooltip
  */
 export const Tooltip = ({
   children,

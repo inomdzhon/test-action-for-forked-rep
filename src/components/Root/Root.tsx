@@ -43,7 +43,7 @@ export interface RootState {
 const warn = warnOnce("Root");
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Root
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Root
  */
 export const Root = ({
   popout = null,

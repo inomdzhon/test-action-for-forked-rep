@@ -187,7 +187,7 @@ const SimpleCellComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/SimpleCell
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/SimpleCell
  */
 export const SimpleCell = withAdaptivity(SimpleCellComponent, { sizeY: true });
 

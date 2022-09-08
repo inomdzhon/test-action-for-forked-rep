@@ -1,1 +1,1 @@
-Компонент для прокидывания конфига приложению. Помимо прочего, отвечает за установку [темы и платформы](https://vkcom.github.io/VKUI/#/PlatformsAndThemes).
+Компонент для прокидывания конфига приложению. Помимо прочего, отвечает за установку [темы и платформы](https://inomdzhon.github.io/test-action-for-forked-rep/#/PlatformsAndThemes).

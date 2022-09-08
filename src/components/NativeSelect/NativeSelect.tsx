@@ -104,7 +104,7 @@ const NativeSelectComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/NativeSelect
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/NativeSelect
  */
 export const NativeSelect = withAdaptivity(NativeSelectComponent, {
   sizeX: true,

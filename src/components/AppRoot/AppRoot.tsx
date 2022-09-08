@@ -49,7 +49,7 @@ export interface AppRootProps
 const warn = warnOnce("AppRoot");
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/AppRoot
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/AppRoot
  */
 export const AppRoot = withAdaptivity<AppRootProps>(
   ({

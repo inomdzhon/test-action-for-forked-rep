@@ -23,7 +23,7 @@ export interface HeadlineProps
 const warn = warnOnce("Headline");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Headline
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Headline
  */
 export const Headline = ({
   children,

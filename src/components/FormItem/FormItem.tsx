@@ -26,7 +26,7 @@ export interface FormItemProps
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/FormItem
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/FormItem
  */
 export const FormItem = ({
   children,

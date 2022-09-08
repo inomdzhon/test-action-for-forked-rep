@@ -17,7 +17,7 @@ export interface PopoutWrapperProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PopoutWrapper
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PopoutWrapper
  */
 export const PopoutWrapper = ({
   alignY = "center",

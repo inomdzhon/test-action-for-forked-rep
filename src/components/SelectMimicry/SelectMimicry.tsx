@@ -75,7 +75,7 @@ const SelectMimicryComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/SelectMimicry
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/SelectMimicry
  */
 export const SelectMimicry = withAdaptivity(SelectMimicryComponent, {
   sizeX: true,

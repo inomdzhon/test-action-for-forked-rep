@@ -14,7 +14,7 @@ export interface FormStatusProps extends React.HTMLAttributes<HTMLDivElement> {
 
 /**
  * @deprecated Этот компонент устарел и будет удален в v5.0.0. Используйте [`Banner`](#/Banner).
- * @see https://inomdzhon.github.io/VKUI/#/FormStatus
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/FormStatus
  */
 export const FormStatus = ({
   mode,

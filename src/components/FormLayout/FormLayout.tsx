@@ -11,7 +11,7 @@ export type FormLayoutProps = React.AllHTMLAttributes<HTMLElement> &
   HasComponent;
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/FormLayout
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/FormLayout
  */
 export const FormLayout = ({
   children,

@@ -58,7 +58,7 @@ const getIsDaySelected = (day: Date, value?: Array<Date | null>) => {
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/CalendarRange
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/CalendarRange
  */
 export const CalendarRange = ({
   value,

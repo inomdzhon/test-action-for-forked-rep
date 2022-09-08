@@ -49,7 +49,7 @@ const InputComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Input
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Input
  */
 export const Input = withAdaptivity(InputComponent, {
   sizeY: true,

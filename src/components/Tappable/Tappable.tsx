@@ -358,7 +358,7 @@ const TappableComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Tappable
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Tappable
  */
 export const Tappable = withAdaptivity(TappableComponent, {
   sizeX: true,

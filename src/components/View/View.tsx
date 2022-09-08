@@ -89,7 +89,7 @@ export interface ViewState {
 const warn = warnOnce("View");
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/View
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/View
  */
 export const View = ({
   popout,

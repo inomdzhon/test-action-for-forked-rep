@@ -9,7 +9,7 @@ export interface InfoRowProps extends React.HTMLAttributes<HTMLDivElement> {
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/InfoRow
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/InfoRow
  */
 export const InfoRow = ({ header, children, ...restProps }: InfoRowProps) => (
   <Headline {...restProps} vkuiClass="InfoRow" weight="3">

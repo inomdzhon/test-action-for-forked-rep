@@ -30,8 +30,8 @@ interface SliderSwitchState {
 const warn = warnOnce("SliderSwitch");
 
 /**
- * @deprecated Этот компонент устарел и будет удален в 5.0.0. Используйте [`SegmentedControl`](https://vkcom.github.io/VKUI/#/SegmentedControl).
- * @see https://vkcom.github.io/VKUI/#/SliderSwitch
+ * @deprecated Этот компонент устарел и будет удален в 5.0.0. Используйте [`SegmentedControl`](https://inomdzhon.github.io/test-action-for-forked-rep/#/SegmentedControl).
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/SliderSwitch
  */
 class SliderSwitch extends React.Component<
   SliderSwitchProps,

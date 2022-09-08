@@ -148,7 +148,7 @@ const ActionSheetItemComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ActionSheetItem
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ActionSheetItem
  */
 export const ActionSheetItem = withAdaptivity(ActionSheetItemComponent, {
   sizeY: true,

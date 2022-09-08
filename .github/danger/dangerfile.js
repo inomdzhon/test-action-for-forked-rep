@@ -60,7 +60,7 @@ const updatedViaAction = () =>
     (commit) => commit.commit.message === "CHORE: Update screenshots"
   );
 
-const updateScreensActionLink = `https://github.com/VKCOM/VKUI/actions/workflows/update_screens.yml`;
+const updateScreensActionLink = `https://github.com/test-action-for-forked-rep/actions/workflows/update_screens.yml`;
 const UPLOAD_BUCKET = "vkui-screenshot";
 const awsHost = `${UPLOAD_BUCKET}.${AWS_ENDPOINT}`;
 console.log("AWS:", awsHost);

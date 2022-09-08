@@ -1,4 +1,4 @@
-Компонент-оболочка для элементов форм ([Input](https://inomdzhon.github.io/VKUI/#/Input), [Select](https://inomdzhon.github.io/VKUI/#/Select), [Textarea](https://inomdzhon.github.io/VKUI/#/Textarea) и другие).
+Компонент-оболочка для элементов форм ([Input](https://inomdzhon.github.io/test-action-for-forked-rep/#/Input), [Select](https://inomdzhon.github.io/test-action-for-forked-rep/#/Select), [Textarea](https://inomdzhon.github.io/test-action-for-forked-rep/#/Textarea) и другие).
 
 ```jsx
 const Example = () => {

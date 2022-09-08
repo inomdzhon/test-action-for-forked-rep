@@ -63,7 +63,7 @@ function getInitialsFontSize(avatarSize: number) {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/InitialsAvatar
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/InitialsAvatar
  */
 export const InitialsAvatar = ({
   size = AVATAR_DEFAULT_SIZE,

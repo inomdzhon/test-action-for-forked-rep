@@ -6,7 +6,7 @@ export interface PanelSpinnerProps extends SpinnerProps {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PanelSpinner
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PanelSpinner
  */
 export const PanelSpinner = React.memo(
   ({ height = 96, style, ...restProps }: PanelSpinnerProps) => (

@@ -56,7 +56,7 @@ export interface ModalCardBaseProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ModalCardBase
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ModalCardBase
  */
 export const ModalCardBase = withAdaptivity<
   ModalCardBaseProps & AdaptivityContextInterface

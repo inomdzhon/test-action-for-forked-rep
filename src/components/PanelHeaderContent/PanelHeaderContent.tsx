@@ -48,7 +48,7 @@ const PanelHeaderChildren = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PanelHeaderContent
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PanelHeaderContent
  */
 export const PanelHeaderContent = ({
   className,

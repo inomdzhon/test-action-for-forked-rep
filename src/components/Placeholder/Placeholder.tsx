@@ -28,7 +28,7 @@ export interface PlaceholderProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Placeholder
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Placeholder
  */
 export const Placeholder = ({
   icon,

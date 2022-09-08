@@ -20,8 +20,8 @@ export interface TabsItemProps extends React.HTMLAttributes<HTMLElement> {
   /**
    * Добавляет элемент слева от `after`.
    *
-   * - `React.ReactElement` – либо [`Badge`](https://inomdzhon.github.io/VKUI/#/Badge) с параметром `mode="prominent"`.
-   *   либо [`Counter`](https://inomdzhon.github.io/VKUI/#/Counter) с параметрами `mode="prominent" size="s"`.
+   * - `React.ReactElement` – либо [`Badge`](https://inomdzhon.github.io/test-action-for-forked-rep/#/Badge) с параметром `mode="prominent"`.
+   *   либо [`Counter`](https://inomdzhon.github.io/test-action-for-forked-rep/#/Counter) с параметрами `mode="prominent" size="s"`.
    * - `number` – для показа текстового блока с переданным числом.
    */
   status?: React.ReactElement | number;
@@ -36,7 +36,7 @@ export interface TabsItemProps extends React.HTMLAttributes<HTMLElement> {
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/TabsItem
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/TabsItem
  */
 export const TabsItem = ({
   before,

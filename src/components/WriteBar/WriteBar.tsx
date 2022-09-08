@@ -37,7 +37,7 @@ export interface WriteBarProps
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/WriteBar
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/WriteBar
  */
 export const WriteBar = ({
   className,

@@ -91,7 +91,7 @@ function PathElement({ photoSize, direction, ...props }: PathElementProps) {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/UsersStack
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/UsersStack
  */
 export const UsersStack = ({
   photos = [],

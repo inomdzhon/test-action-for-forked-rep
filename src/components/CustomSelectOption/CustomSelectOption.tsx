@@ -55,7 +55,7 @@ export interface CustomSelectOptionProps
 const warn = warnOnce("CustomSelectOption");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/CustomSelectOption
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/CustomSelectOption
  */
 export const CustomSelectOption = ({
   children,

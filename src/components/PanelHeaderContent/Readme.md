@@ -2,7 +2,7 @@
 
 > **Важно**
 >
-> Правая часть шапки скрыта по умолчанию, если требуется показать её, передайте в [`ConfigProvider`](https://vkcom.github.io/VKUI/#/ConfigProvider) свойство `webviewType={WebviewType.INTERNAL}`.
+> Правая часть шапки скрыта по умолчанию, если требуется показать её, передайте в [`ConfigProvider`](https://inomdzhon.github.io/test-action-for-forked-rep/#/ConfigProvider) свойство `webviewType={WebviewType.INTERNAL}`.
 
 ```jsx { "props": { "webviewType": true } }
 const Example = () => {

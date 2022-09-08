@@ -29,7 +29,7 @@ export interface FixedLayoutState {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/FixedLayout
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/FixedLayout
  */
 export const FixedLayout = ({
   children,

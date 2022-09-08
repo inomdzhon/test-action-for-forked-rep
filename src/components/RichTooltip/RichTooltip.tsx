@@ -12,7 +12,7 @@ export interface RichTooltipProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/RichTooltip
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/RichTooltip
  */
 export const RichTooltip = ({
   children,

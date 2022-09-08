@@ -97,7 +97,7 @@ const getInternalValue = (value: CalendarProps["value"]) => {
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/DateInput
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/DateInput
  */
 export const DateInput = ({
   enableTime,

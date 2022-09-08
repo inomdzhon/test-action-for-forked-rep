@@ -12,7 +12,7 @@ export interface CardProps
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Card
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Card
  */
 export const Card = ({
   mode = "tint",

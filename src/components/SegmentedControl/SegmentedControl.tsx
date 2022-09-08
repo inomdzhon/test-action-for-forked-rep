@@ -30,7 +30,7 @@ export interface SegmentedControlProps
 const warn = warnOnce("SegmentedControl");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/SegmentedControl
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/SegmentedControl
  */
 export const SegmentedControl = ({
   size = "l",

@@ -93,7 +93,7 @@ const getInternalValue = (value: CalendarRangeProps["value"]) => {
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/DateRangeInput
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/DateRangeInput
  */
 export const DateRangeInput = ({
   shouldDisableDate,

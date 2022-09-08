@@ -4,7 +4,7 @@
 ## Платформы
 
 На данный момент поддерживаются 3 платформы — `ios`, `android` и `vkcom`. Для применения дизайна платформы, достаточно
-передать её в компонент [`ConfigProvider`](https://vkcom.github.io/VKUI/#/ConfigProvider) в качестве значения свойства `platform`.
+передать её в компонент [`ConfigProvider`](https://inomdzhon.github.io/test-action-for-forked-rep/#/ConfigProvider) в качестве значения свойства `platform`.
 
 > **Важно**
 >
@@ -25,7 +25,7 @@
 ```
 
 Чтобы получить значение текущей платформы можно использовать хук `usePlatform` или HOC `withPlatform`. Подробнее об
-этих инструментах можно познакомиться в [утилитах](https://vkcom.github.io/VKUI/#/Utils).
+этих инструментах можно познакомиться в [утилитах](https://inomdzhon.github.io/test-action-for-forked-rep/#/Utils).
 
 > **Важно**
 >
@@ -39,7 +39,7 @@
 ## Темы
 
 У каждой платформы есть две темы: светлая (`light`) и тёмная (`dark`).
-Применить тему можно передав её значение в свойство `appearance` компонента [`ConfigProvider`](https://vkcom.github.io/VKUI/#/ConfigProvider).
+Применить тему можно передав её значение в свойство `appearance` компонента [`ConfigProvider`](https://inomdzhon.github.io/test-action-for-forked-rep/#/ConfigProvider).
 
 ```jsx static
 <ConfigProvider appearance="dark">

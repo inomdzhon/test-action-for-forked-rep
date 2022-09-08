@@ -14,7 +14,7 @@ export interface FootnoteProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Footnote
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Footnote
  */
 export const Footnote = ({
   children,

@@ -7,7 +7,7 @@ export interface DivProps
     HasRootRef<HTMLDivElement> {}
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Div
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Div
  */
 export const Div = ({ children, getRootRef, ...restProps }: DivProps) => {
   return (

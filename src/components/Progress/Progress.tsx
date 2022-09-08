@@ -12,7 +12,7 @@ const PROGRESS_MIN_VALUE = 0;
 const PROGRESS_MAX_VALUE = 100;
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Progress
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Progress
  */
 export const Progress = ({
   value = 0,

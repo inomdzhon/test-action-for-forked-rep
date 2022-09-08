@@ -7,7 +7,7 @@ export interface BadgeProps extends React.HTMLAttributes<HTMLElement> {
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Badge
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Badge
  */
 export const Badge = ({ mode = "new", ...restProps }: BadgeProps) => (
   <span vkuiClass={classNames("Badge", `Badge--${mode}`)} {...restProps} />

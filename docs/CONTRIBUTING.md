@@ -53,7 +53,7 @@ const Cmp = ({ mode = "default", ...restProps }: CmpProps) => (
 ```
 
 - Для цветов, скруглений, размеров, отступов и теней используются css-переменные из [vkui-tokens](https://github.com/VKCOM/vkui-tokens)
-- Для типографии используются компоненты [Typography](https://vkcom.github.io/VKUI/#!/Typography) там, где это возможно
+- Для типографии используются компоненты [Typography](https://inomdzhon.github.io/test-action-for-forked-rep/#!/Typography) там, где это возможно
 - Добавлен `export` компонента и его свойств в `src/index.ts`
 - Компонент покрыт юнит- и скриншотными тестами. [Гайд по тестированию](https://github.com/VKCOM/VKUI/blob/master/docs/TESTING.md)
 - Компонент корректно отображается на всех платформах, размерах и цветовых схемах. В styleguide для всех этих параметров есть переключатели

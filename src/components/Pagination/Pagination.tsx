@@ -62,7 +62,7 @@ export interface PaginationProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/Pagination
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Pagination
  */
 export const Pagination = ({
   currentPage = 1,

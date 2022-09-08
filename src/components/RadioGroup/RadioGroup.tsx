@@ -7,7 +7,7 @@ export interface RadioGroupProps extends React.HTMLAttributes<HTMLDivElement> {
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/RadioGroup
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/RadioGroup
  */
 export const RadioGroup = ({
   mode = "vertical",

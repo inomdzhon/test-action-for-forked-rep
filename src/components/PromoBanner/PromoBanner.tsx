@@ -48,7 +48,7 @@ export interface PromoBannerProps extends React.HTMLAttributes<HTMLDivElement> {
 const warn = warnOnce("PromoBanner");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PromoBanner
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PromoBanner
  */
 export const PromoBanner = ({
   bannerData = {},

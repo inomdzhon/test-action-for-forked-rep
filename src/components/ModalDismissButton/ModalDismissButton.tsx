@@ -6,7 +6,7 @@ import "./ModalDismissButton.css";
 export type ModalDismissButtonProps = React.HTMLAttributes<HTMLButtonElement>;
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ModalDismissButton
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ModalDismissButton
  */
 export const ModalDismissButton = ({
   "aria-label": ariaLabel = "Закрыть",

@@ -13,7 +13,7 @@ import {
 import "./SegmentedControlOption.css";
 
 /**
- * @see https://vkcom.github.io/VKUI/#/SegmentedControl
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/SegmentedControl
  */
 export const SegmentedControlOption = ({
   className,

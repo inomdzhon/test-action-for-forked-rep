@@ -79,7 +79,7 @@ const TextareaComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Textarea
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Textarea
  */
 export const Textarea = withAdaptivity(TextareaComponent, { sizeY: true });
 

@@ -51,7 +51,7 @@ const TOUCH_MOVE_EVENT_PARAMS = {
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PullToRefresh
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PullToRefresh
  */
 export const PullToRefresh = ({
   children,

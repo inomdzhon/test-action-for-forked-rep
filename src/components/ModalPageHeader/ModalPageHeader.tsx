@@ -14,7 +14,7 @@ export interface ModalPageHeaderProps
     HasRef<HTMLDivElement> {}
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ModalPageHeader
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ModalPageHeader
  */
 export const ModalPageHeader = ({
   children,

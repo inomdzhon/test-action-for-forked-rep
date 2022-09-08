@@ -48,7 +48,7 @@ export interface ContentCardProps
 const warn = warnOnce("ContentCard");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ContentCard
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ContentCard
  */
 export const ContentCard = ({
   subtitle,

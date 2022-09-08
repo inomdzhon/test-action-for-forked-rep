@@ -22,7 +22,7 @@ export interface SplitLayoutProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/SplitLayout
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/SplitLayout
  */
 export const SplitLayout = ({
   popout,

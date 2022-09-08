@@ -19,7 +19,7 @@ export interface PanelHeaderContextProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PanelHeaderContext
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PanelHeaderContext
  */
 export const PanelHeaderContext = ({
   children,

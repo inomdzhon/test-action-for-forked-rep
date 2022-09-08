@@ -37,7 +37,7 @@ const warn = warnOnce("WriteBarIcon");
 const IS_DEV = process.env.NODE_ENV === "development";
 
 /**
- * @see https://vkcom.github.io/VKUI/#/WriteBarIcon
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/WriteBarIcon
  */
 export const WriteBarIcon = ({
   mode,

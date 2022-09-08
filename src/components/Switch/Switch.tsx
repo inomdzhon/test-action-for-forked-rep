@@ -17,7 +17,7 @@ export interface SwitchProps
     HasRootRef<HTMLLabelElement> {}
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Switch
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Switch
  */
 export const Switch = ({
   style,

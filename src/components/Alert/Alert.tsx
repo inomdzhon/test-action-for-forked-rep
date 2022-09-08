@@ -137,7 +137,7 @@ const AlertAction = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Alert
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Alert
  */
 export const Alert = ({
   actions = [],

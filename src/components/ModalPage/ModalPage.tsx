@@ -150,7 +150,7 @@ const ModalPageComponent = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ModalPage
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ModalPage
  */
 export const ModalPage = withAdaptivity(ModalPageComponent, {
   viewWidth: true,

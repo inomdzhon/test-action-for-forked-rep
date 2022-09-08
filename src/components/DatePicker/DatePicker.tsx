@@ -204,7 +204,7 @@ const DatePickerNative = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/DatePicker
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/DatePicker
  */
 const DatePickerComponent = ({
   hasMouse,

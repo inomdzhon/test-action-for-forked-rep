@@ -36,7 +36,7 @@ const CardGridComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/CardGrid
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/CardGrid
  */
 export const CardGrid = withAdaptivity(CardGridComponent, { sizeX: true });
 

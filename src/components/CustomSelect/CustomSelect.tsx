@@ -145,7 +145,7 @@ export interface CustomSelectProps
   popupDirection?: "top" | "bottom";
   /**
    * Рендер-проп для кастомного рендера опции.
-   * В объекте аргумента приходят [свойства опции](https://vkcom.github.io/VKUI/#/CustomSelectOption?id=props)
+   * В объекте аргумента приходят [свойства опции](https://inomdzhon.github.io/test-action-for-forked-rep/#/CustomSelectOption?id=props)
    */
   renderOption?: (props: CustomSelectOptionProps) => React.ReactNode;
   /**
@@ -753,7 +753,7 @@ function CustomSelectComponent(props: CustomSelectProps) {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/CustomSelect
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/CustomSelect
  */
 export const CustomSelect = withAdaptivity(CustomSelectComponent, {
   sizeY: true,

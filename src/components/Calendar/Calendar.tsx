@@ -64,7 +64,7 @@ export interface CalendarProps
 const warn = warnOnce("Calendar");
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Calendar
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Calendar
  */
 export const Calendar = ({
   value,

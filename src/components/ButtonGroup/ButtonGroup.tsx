@@ -27,7 +27,7 @@ export interface ButtonGroupProps
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/ButtonGroup
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ButtonGroup
  */
 export const ButtonGroup = ({
   mode = "horizontal",

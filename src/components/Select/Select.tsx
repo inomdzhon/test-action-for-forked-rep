@@ -22,7 +22,7 @@ export const SelectType = {
 
 // TODO v5.0.0 поправить под новую адаптивность
 /**
- * @see https://inomdzhon.github.io/VKUI/#/SelectTypography
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/SelectTypography
  */
 export const SelectTypography = ({
   selectType = SelectType.default,
@@ -80,7 +80,7 @@ const SelectComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Select
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Select
  */
 export const Select = withAdaptivity(SelectComponent, {
   hasMouse: true,

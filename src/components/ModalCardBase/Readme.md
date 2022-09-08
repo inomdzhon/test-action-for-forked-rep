@@ -1,4 +1,4 @@
-Низкоуровневый компонент для отрисовки карточки со сложным содержимым. Используется внутри [ModalCard](https://inomdzhon.github.io/VKUI/#/ModalCard).
+Низкоуровневый компонент для отрисовки карточки со сложным содержимым. Используется внутри [ModalCard](https://inomdzhon.github.io/test-action-for-forked-rep/#/ModalCard).
 
 ### Кнопка для закрытия
 

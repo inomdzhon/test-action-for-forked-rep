@@ -23,12 +23,12 @@ export interface RichCellProps extends TappableProps {
    */
   bottom?: React.ReactNode;
   /**
-   * Кнопки-действия. Принимает [`Button`](https://inomdzhon.github.io/VKUI/#/Button) с параметрами:
+   * Кнопки-действия. Принимает [`Button`](https://inomdzhon.github.io/test-action-for-forked-rep/#/Button) с параметрами:
    *
    * - `mode="primary" size="s"`
    * - `mode="secondary" size="s"`
    *
-   * Для набора кнопок используйте [`ButtonGroup`](https://inomdzhon.github.io/VKUI/#/ButtonGroup) с параметрами:
+   * Для набора кнопок используйте [`ButtonGroup`](https://inomdzhon.github.io/test-action-for-forked-rep/#/ButtonGroup) с параметрами:
    *
    * - `mode="horizontal" gap="s" stretched`
    */
@@ -112,7 +112,7 @@ const RichCellComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/RichCell
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/RichCell
  */
 export const RichCell = withAdaptivity(RichCellComponent, { sizeY: true });
 

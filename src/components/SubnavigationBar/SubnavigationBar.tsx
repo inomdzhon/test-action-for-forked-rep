@@ -24,7 +24,7 @@ const defaultScrollToLeft: ScrollPositionHandler = (x) => x - 240;
 const defaultScrollToRight: ScrollPositionHandler = (x) => x + 240;
 
 /**
- * @see https://vkcom.github.io/VKUI/#/SubnavigationBar
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/SubnavigationBar
  */
 export const SubnavigationBar = ({
   mode = "overflow",

@@ -8,7 +8,7 @@ export interface SpacingProps extends React.HTMLAttributes<HTMLDivElement> {
    */
   size?: number;
   /**
-   * @deprecated Это свойство устарело и будет удалено в 5.0.0. Используйте [`Separator`](https://inomdzhon.github.io/VKUI/#/Separator) вместе с Spacing.
+   * @deprecated Это свойство устарело и будет удалено в 5.0.0. Используйте [`Separator`](https://inomdzhon.github.io/test-action-for-forked-rep/#/Separator) вместе с Spacing.
    * Настройка положения сепаратора:
    *
    * - separator=false (default) - без сепаратора
@@ -21,7 +21,7 @@ export interface SpacingProps extends React.HTMLAttributes<HTMLDivElement> {
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Spacing
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Spacing
  */
 export const Spacing = ({
   size = 8,

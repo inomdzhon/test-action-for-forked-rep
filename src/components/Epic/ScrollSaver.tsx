@@ -9,7 +9,7 @@ export interface ScrollSaverProps {
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/ScrollSaver
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/ScrollSaver
  */
 export const ScrollSaver = ({
   children,

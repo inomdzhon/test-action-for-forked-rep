@@ -32,7 +32,7 @@ export interface TabbarItemProps
 const warn = warnOnce("TabbarItem");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/TabbarItem
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/TabbarItem
  */
 export const TabbarItem = ({
   children,

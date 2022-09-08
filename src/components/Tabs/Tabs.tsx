@@ -15,7 +15,7 @@ export interface TabsProps
    * Задаёт вид кнопок.
    *
    * > ⚠️ Значения `"buttons"`, `"segmented"` устарели и будут удалены в 5.0.0. Вместо `"buttons"` используйте `"secondary"`.
-   * > Режим `"segmented"` переехал в отдельный компонент [`SegmentedControl`](https://inomdzhon.github.io/VKUI#/SegmentedControl),
+   * > Режим `"segmented"` переехал в отдельный компонент [`SegmentedControl`](https://https://inomdzhon.github.io/test-action-for-forked-rep/#/SegmentedControl),
    * > поэтому используйте его вместо `Tabs`.
    */
   mode?: "buttons" | "segmented" | "default" | "accent" | "secondary";
@@ -88,7 +88,7 @@ const TabsComponent = ({
 };
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Tabs
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Tabs
  */
 export const Tabs = withAdaptivity(TabsComponent, { sizeX: true });
 

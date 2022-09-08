@@ -24,7 +24,7 @@ export type PanelHeaderBackProps = PanelHeaderButtonProps &
   };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PanelHeaderBack
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PanelHeaderBack
  */
 export const PanelHeaderBackComponent = ({
   label,

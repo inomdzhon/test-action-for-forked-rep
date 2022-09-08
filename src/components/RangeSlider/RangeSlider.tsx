@@ -7,7 +7,7 @@ export type Value = [number, number];
 export type RangeSliderProps = UniversalSliderProps<Value>;
 
 /**
- * @see https://vkcom.github.io/VKUI/#/RangeSlider
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/RangeSlider
  */
 export const RangeSlider = ({
   onChange,

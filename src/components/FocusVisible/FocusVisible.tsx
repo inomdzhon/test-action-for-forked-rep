@@ -8,7 +8,7 @@ export interface FocusVisibleProps {
 }
 
 /**
- * @see https://vkcom.github.io/VKUI/#/FocusVisible
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/FocusVisible
  */
 export const FocusVisible = ({ mode }: FocusVisibleProps) => (
   <span

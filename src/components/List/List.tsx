@@ -6,7 +6,7 @@ import "./List.css";
 export type ListProps = React.HTMLAttributes<HTMLDivElement>;
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/List
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/List
  */
 export const List = ({ children, ...restProps }: ListProps) => {
   const [isDragging, toggleDrag] = React.useState(false);

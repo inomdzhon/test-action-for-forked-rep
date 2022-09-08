@@ -12,7 +12,7 @@ export interface SpinnerProps extends React.HTMLAttributes<HTMLSpanElement> {
 }
 
 /**
- * @see https://inomdzhon.github.io/VKUI/#/Spinner
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/Spinner
  */
 export const Spinner = React.memo(
   ({

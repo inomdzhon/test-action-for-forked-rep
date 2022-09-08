@@ -47,7 +47,7 @@ const SubnavigationButtonTypography = ({
 };
 
 /**
- * @see https://vkcom.github.io/VKUI/#/SubnavigationButton
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/SubnavigationButton
  */
 export const SubnavigationButton = ({
   mode = "primary",

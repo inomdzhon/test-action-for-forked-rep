@@ -36,7 +36,7 @@ const ButtonTypography = ({ primary, children }: ButtonTypographyProps) => {
 const warn = warnOnce("PanelHeaderButton");
 
 /**
- * @see https://vkcom.github.io/VKUI/#/PanelHeaderButton
+ * @see https://inomdzhon.github.io/test-action-for-forked-rep/#/PanelHeaderButton
  */
 export const PanelHeaderButton = ({
   children,
