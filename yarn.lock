@@ -2051,9 +2051,9 @@
     eslint-config-google "^0.9.1"
 
 "@vkontakte/icons@^1.184.0":
-  version "1.184.0"
-  resolved "https://registry.yarnpkg.com/@vkontakte/icons/-/icons-1.184.0.tgz#826cff753581af31839e39c8224bd09015e8befd"
-  integrity sha512-0yLCt8S2pscE1DoIaTlS+2nYinwp45QQHNO9qORFexwRf4Z5R2ocEObESpwdMmuJfVnmRh3SkODbq6Fmb+HPvA==
+  version "1.194.0"
+  resolved "https://registry.yarnpkg.com/@vkontakte/icons/-/icons-1.194.0.tgz#08e0979b0e48a527ae6518318308ac040b62c730"
+  integrity sha512-Yw//tEU4Z53fR099kturVQIWasaD00F/UFzDEMX1h/umJE9uyX6y3ag3nECeN+ZoZbE6DxG8lNg/Pk8pVdo5/Q==
   dependencies:
     svg-baker-runtime "1.4.7"
 
