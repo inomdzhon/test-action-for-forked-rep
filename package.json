@@ -79,7 +79,7 @@
     "jest-preset-stylelint": "^5.0.4",
     "lint-staged": "^13.0.3",
     "mini-css-extract-plugin": "^2.5.2",
-    "playwright": "1.17.2",
+    "playwright": "1.26.1",
     "playwright-chromium": "1.17.2",
     "postcss": "^8.4.5",
     "postcss-cli": "^10.0.0",
