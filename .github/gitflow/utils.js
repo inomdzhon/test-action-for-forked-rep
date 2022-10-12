@@ -42,6 +42,11 @@ module.exports.GhApi = class GhApi {
       input: body,
     });
   }
+
+  openPr(baseBranchName) {
+    const command = `gh pr create --base ${baseBranchName}`;
+    execSync(command);
+  }
 };
 
 const semVerRegex =
