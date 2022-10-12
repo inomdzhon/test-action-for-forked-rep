@@ -26,7 +26,7 @@ const patchRefs = patchCommits
   .join(" ");
 
 execSync(`git fetch origin ${stableBranchRef} ${patchRefs}`);
-execSync(`git checkout ${stableBranchRef}`);
+execSync(`git checkout -b patch/pr${pullNumber} origin/${stableBranchRef}`);
 try {
   execSync(`git cherry-pick ${patchRefs}`);
 } catch (e) {
