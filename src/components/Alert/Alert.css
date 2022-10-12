@@ -3,7 +3,7 @@
   color: var(--text_primary, var(--vkui--color_text_primary));
   position: relative;
   min-width: 280px;
-  max-width: 416px;
+  max-width: 415px;
   margin: auto 24px;
   box-shadow: var(--vkui--elevation4);
   border-radius: var(--vkui--size_border_radius_paper--regular);
