@@ -1,5 +1,4 @@
-const SemVer = require("semver/classes/semver");
-const { stableBranchName } = require("./utils.js");
+const { stableBranchName, SemVer } = require("./utils.js");
 const pkg = require("../../package.json");
 
 const semVer = new SemVer(pkg.version);
