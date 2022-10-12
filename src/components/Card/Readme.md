@@ -25,7 +25,7 @@
       </Group>
       <Group
         mode="plain"
-        header={<Header mode="secondary">С внешней тенью</Header>}
+        header={<Header mode="secondary">С внешней тенью f</Header>}
       >
         <CardGrid size="l">
           <Card mode="shadow">
