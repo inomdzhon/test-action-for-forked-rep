@@ -26,15 +26,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - uses: actions/setup-node@v3
         with:
           node-version: 14
+
       - name: Define stable branch name
         id: stable_branch_name
-        run: |
-          echo "::set-output name=value::$(node ./.github/gitflow/get_stable_branch.js)"
+        run: echo "::set-output name=value::$(node ./.github/gitflow/get_stable_branch.js)"
+
       - name: Cherry pick into stable branch
-        if: ${{ steps.stable_branch_name.value }}
         uses: carloscastrojumo/github-cherry-pick-action@v1.0.1
         with:
           branch: ${{ steps.stable_branch_name.value }}
