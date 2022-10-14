@@ -105,4 +105,6 @@ ReactDOM.render(
 
 1. Для начала ознакомьтесь с нашим [манифестом](https://github.com/VKCOM/VKUI/blob/master/docs/MANIFESTO.md) 📝
 2. Затем посмотрите [требования к разработке](https://github.com/VKCOM/VKUI/blob/master/docs/CONTRIBUTING.md) 🔧
-3. А теперь смело вносите изменения и создавайте [pull request](https://github.com/VKCOM/VKUI/pulls) ❤️
+3. А теперь смело вносите изменения и создавайте [pull request](https://github.com/VKCOM/VKUI/pulls) ❤️ ❤️ ❤️
+
+
