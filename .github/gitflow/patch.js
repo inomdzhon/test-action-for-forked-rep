@@ -26,7 +26,7 @@ const patchRefs = patchCommits
   .join(" ");
 
 execSync(`git fetch origin ${stableBranchRef} ${patchRefs}`);
-execSync(`git checkout -b patch/pr${pullNumber} origin/${stableBranchRef}`);
+execSync(`git checkout ${stableBranchRef}`);
 try {
   execSync(`git cherry-pick ${patchRefs}`);
 } catch (e) {
@@ -60,5 +60,6 @@ gh pr create --base ${stableBranchRef}
   process.exit(1);
 }
 
-execSync(`git push --set-upstream origin patch/pr${pullNumber}`);
-gh.openPr(stableBranchName);
+execSync(
+  `git push "${remoteRepository}" HEAD:refs/heads/${stableBranchRef} --verbose`
+);
