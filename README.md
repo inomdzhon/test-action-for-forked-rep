@@ -20,7 +20,7 @@ testtest
 
 **Важно:** Нужно установить вручную [`peerDependencies`](package.json#L104-L112), либо использовать npm7+ который делает это автоматически.
 
-## Hello World
+## Hello World!!!
 
 ```jsx static
 import React from "react";
