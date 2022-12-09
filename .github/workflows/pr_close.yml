@@ -26,6 +26,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        # For forked repo checkout without token
+        if: github.event.pull_request.base.repo.id == github.event.pull_request.head.repo.id
+      - uses: actions/checkout@v3
+        # For origin checkout with token
+        if: github.event.pull_request.base.repo.id != github.event.pull_request.head.repo.id
         with:
           token: ${{ secrets.DEVTOOLS_GITHUB_TOKEN }}
       - uses: actions/setup-node@v3
